@@ -2,6 +2,7 @@
 I currently create websites with NextJs App Router and Material UI
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baosub&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baosub&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baosub)](https://github.com/baosub/github-readme-stats)
 
 <!--
 **baosub/baosub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
