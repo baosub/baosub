@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baosub&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baosub)](https://github.com/baosub/github-readme-stats)
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=baosub&show_icons=true)
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=baosub)](https://github.com/baosub/github-readme-stats)
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=baosub&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/baosub/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=baosub&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/baosub/github-readme-stats#gh-light-mode-only)
